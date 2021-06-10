@@ -2,4 +2,5 @@
 
 |**Название проекта**          |**Описание**          |**Используемые библиотеки**          |
 |:-----------------------------|:---------------------|-----------------------------------:|
-|[Анализ надежности заемщиков](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/customer_reliability_analysis)  |Исследование влияния семейного положения и количества детей на погашение кредита в срок.|pandas, Mystem|
+|[Анализ надежности заемщиков](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/customer_reliability_analysis)  |Исследование влияния семейного положения и количества детей на погашение кредита в срок.|pandas, 
+Mystem|
