@@ -3,10 +3,10 @@
 |**Название проекта**          |**Описание**          |**Используемые библиотеки**          |
 |:-----------------------------|:---------------------|-----------------------------------:|
 |[Анализ надежности заемщиков](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/customer_reliability_analysis)  |Исследование влияния семейного положения и количества детей на погашение кредита в срок.|pandas, Mystem|
-|[Исследование объявлений о продаже квартир]()|Определение рыночной стоимости объектов недвижимости| pandas, matplotlib|
-|[Анализ исторических данных о продаже игр]()|Выявление закономерностей, определяющих успешность игры. Проверка статистических гипотез.|pandas, matplotlib, scipy, numpy|
-|[Аналитика в Яндекс.Афише]()|Исследование данных по продажам билетов на мероприятия для снижения маркетинговых расходов|pandas, matplotlib, seaborn, numpy|
-|[Приоритизация гипотез и анализ А/В теста]()|Анализ А/В теста для интернет-магазина|pandas, numpy, matplotlib, scipy|
-|[Анализ поведения пользователей мобильного приложения]()|Определение поведения пользователей мобильного приложения по продаже продуктов питания и анализ результатов А/А/В теста|pandas, plotly, scipy, numpy, math|
-|[Разработка стратегии взаимодействия с клиентами]()|Прогнозирование вероятности оттока и исследование признаков, влияющих на отток клиентов в сети фитнес-центров|pandas, seaborn, matplotlib, sklearn, scipy|
-|[Оценка А/В теста]()|Оценка А/В теста по техническому заданию|pandas, plotly, matplotlib, seaborn, scipy, numpy, math|
+|[Исследование объявлений о продаже квартир](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/analysis_of_apartment_sales)|Определение рыночной стоимости объектов недвижимости| pandas, matplotlib|
+|[Анализ исторических данных о продаже игр](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/game_sales_analisys)|Выявление закономерностей, определяющих успешность игры. Проверка статистических гипотез.|pandas, matplotlib, scipy, numpy|
+|[Аналитика в Яндекс.Афише](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/marketing_analysis_of_ticket_sales)|Исследование данных по продажам билетов на мероприятия для снижения маркетинговых расходов|pandas, matplotlib, seaborn, numpy|
+|[Приоритизация гипотез и анализ А/В теста](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/A:B_test_analysis)|Анализ А/В теста для интернет-магазина|pandas, numpy, matplotlib, scipy|
+|[Анализ поведения пользователей мобильного приложения](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/user_behavior_analysis)|Определение поведения пользователей мобильного приложения по продаже продуктов питания и анализ результатов А/А/В теста|pandas, plotly, scipy, numpy, math|
+|[Разработка стратегии взаимодействия с клиентами](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/customer_retention_strategy)|Прогнозирование вероятности оттока и исследование признаков, влияющих на отток клиентов в сети фитнес-центров|pandas, seaborn, matplotlib, sklearn, scipy|
+|[Оценка А/В теста](https://github.com/Zaytseva-Tatyana/yandex.praktikum.projects/tree/main/A:B_test_score)|Оценка А/В теста по техническому заданию|pandas, plotly, matplotlib, seaborn, scipy, numpy, math|
